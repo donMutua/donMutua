@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @donMutua
+- 👋 Hi, I’m @don
 - 👀 I’m interested in Frontend Engineering
-- 🌱 I’m currently learning Elixir
+
 
 
 <!---
