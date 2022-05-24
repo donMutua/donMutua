@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @don
-- 👀 I’m interested in Frontend Engineering
+- 👀 A React Frontednd Engineer
 
 
 
