@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @don
-- A React Frontednd Engineer
+- Technologist • Creative
 
 
 
